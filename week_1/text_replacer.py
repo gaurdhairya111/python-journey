@@ -20,6 +20,8 @@ print(s1.replace("PYTHON","JAVA",1))
 print("-"*60)
 print("-"*60)
 
+
+#this is the oder upper and lower case practice
 print(s1.upper())
 print("-"*60)
 print("-"*60)
